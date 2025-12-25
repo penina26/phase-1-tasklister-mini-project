@@ -35,3 +35,13 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+.done {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+#tasks button {
+  margin-left: 6px;
+  /* space between the text and each button */
+}
